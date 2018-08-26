@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yya-order:war">
+    <output-path>$PROJECT_DIR$/yya-order/target</output-path>
+    <root id="archive" name="yya-order.war">
+      <element id="artifact" artifact-name="yya-order:war exploded" />
+    </root>
+  </artifact>
+</component>

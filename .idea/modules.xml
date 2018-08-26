@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yya-front/yya-cart/yya-cart.iml" filepath="$PROJECT_DIR$/yya-front/yya-cart/yya-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-common/yya-common.iml" filepath="$PROJECT_DIR$/yya-common/yya-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-front/yya-front.iml" filepath="$PROJECT_DIR$/yya-front/yya-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-front/yya-front-web/yya-front-web.iml" filepath="$PROJECT_DIR$/yya-front/yya-front-web/yya-front-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-manager/yya-manager.iml" filepath="$PROJECT_DIR$/yya-manager/yya-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-manager/yya-manager-mapper/yya-manager-mapper.iml" filepath="$PROJECT_DIR$/yya-manager/yya-manager-mapper/yya-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-manager/yya-manager-pojo/yya-manager-pojo.iml" filepath="$PROJECT_DIR$/yya-manager/yya-manager-pojo/yya-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-manager/yya-manager-service/yya-manager-service.iml" filepath="$PROJECT_DIR$/yya-manager/yya-manager-service/yya-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-manager/yya-manager-web/yya-manager-web.iml" filepath="$PROJECT_DIR$/yya-manager/yya-manager-web/yya-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-order/yya-order.iml" filepath="$PROJECT_DIR$/yya-order/yya-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-parent/yya-parent.iml" filepath="$PROJECT_DIR$/yya-parent/yya-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-front/yya-product/yya-product.iml" filepath="$PROJECT_DIR$/yya-front/yya-product/yya-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-front/yya-search/yya-search.iml" filepath="$PROJECT_DIR$/yya-front/yya-search/yya-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yya-front/yya-sso/yya-sso.iml" filepath="$PROJECT_DIR$/yya-front/yya-sso/yya-sso.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1024" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yya-cart" />
+        <module name="yya-common" />
+        <module name="yya-front-web" />
+        <module name="yya-manager-mapper" />
+        <module name="yya-manager-pojo" />
+        <module name="yya-manager-service" />
+        <module name="yya-manager-web" />
+        <module name="yya-order" />
+        <module name="yya-pojo" />
+        <module name="yya-product" />
+        <module name="yya-search" />
+        <module name="yya-sso" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="yya-cart" target="1.7" />
+      <module name="yya-common" target="1.7" />
+      <module name="yya-front" target="1.7" />
+      <module name="yya-front-web" target="1.7" />
+      <module name="yya-manager" target="1.7" />
+      <module name="yya-manager-mapper" target="1.7" />
+      <module name="yya-manager-pojo" target="1.7" />
+      <module name="yya-manager-service" target="1.7" />
+      <module name="yya-manager-web" target="1.7" />
+      <module name="yya-order" target="1.7" />
+      <module name="yya-parent" target="1.7" />
+      <module name="yya-pojo" target="1.7" />
+      <module name="yya-product" target="1.7" />
+      <module name="yya-search" target="1.7" />
+      <module name="yya-sso" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

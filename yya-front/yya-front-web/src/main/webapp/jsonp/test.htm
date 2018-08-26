@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+    <script type="text/javascript" src="http://manage.youyijia.com/lib/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $.ajax({
+            url: "http://manage.youyijia.com/jsonp/data.jsp",
+            dataType: "jsonp",
+            type: "GET",
+            success: function (data) {
+                alert(data.abc);
+            }
+        });
+    </script>
+</head>
+<body>
+lasdf
+</body>
+</html>
